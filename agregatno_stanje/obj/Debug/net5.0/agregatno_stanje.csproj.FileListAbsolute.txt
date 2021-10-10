@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\bin\Debug\net5.0\agregatno_stanje.exe
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\bin\Debug\net5.0\agregatno_stanje.deps.json
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\bin\Debug\net5.0\agregatno_stanje.runtimeconfig.json
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\bin\Debug\net5.0\agregatno_stanje.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\bin\Debug\net5.0\agregatno_stanje.dll
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\bin\Debug\net5.0\ref\agregatno_stanje.dll
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\bin\Debug\net5.0\agregatno_stanje.pdb
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\obj\Debug\net5.0\agregatno_stanje.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\obj\Debug\net5.0\agregatno_stanje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\obj\Debug\net5.0\agregatno_stanje.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\obj\Debug\net5.0\agregatno_stanje.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\obj\Debug\net5.0\agregatno_stanje.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\obj\Debug\net5.0\agregatno_stanje.dll
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\obj\Debug\net5.0\ref\agregatno_stanje.dll
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\obj\Debug\net5.0\agregatno_stanje.pdb
+C:\Users\Nikola\source\repos\agregatno_stanje\agregatno_stanje\obj\Debug\net5.0\agregatno_stanje.genruntimeconfig.cache

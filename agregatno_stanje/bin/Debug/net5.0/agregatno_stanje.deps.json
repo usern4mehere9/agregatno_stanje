@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "agregatno_stanje/1.0.0": {
+        "runtime": {
+          "agregatno_stanje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "agregatno_stanje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
